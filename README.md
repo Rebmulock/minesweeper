@@ -4,7 +4,7 @@
 
 * Pravidla hry:
   - Hráč zadá veľkosť hracej plochy (program ho nepustí ďalej kým nesplní podmienku size >= 5)
-  - Hráč ma na výber z dvoch akcií - odhaliť políčko alebo označiť/odznačiť políčko ako mínu (program ho nepustí ďalej kým nezadá buď **'u'** (uncover) alebo **'m'** (mark)
+  - Hráč ma na výber z dvoch akcií - odhaliť políčko alebo označiť/odznačiť políčko ako mínu (program ho nepustí ďalej kým nezadá buď **'u'** (uncover) alebo **'m'** (mark) )
   - Hra vždy vyzve hráča, aby zadal súradnice políčka, ktoré chce odhaliť alebo označiť/odznačiť (ak hráč zadá neplatné súradnice hra ho na to upozorní)
   - Ak hráč odhalí všetky políčka s číslami vyhráva hru
   - Ak hráč odhalí políčko s mínou prehráva hru a odhalí sa mu celá hracia plocha
